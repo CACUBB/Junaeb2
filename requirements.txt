@@ -5,3 +5,4 @@ ultralytics
 numpy
 opencv-python-headless
 Pillow
+cv2
